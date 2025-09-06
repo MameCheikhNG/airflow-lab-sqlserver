@@ -1,0 +1,9 @@
+# Fichiers/dossiers à ignorer
+logs/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.docker/
+.airflow/
